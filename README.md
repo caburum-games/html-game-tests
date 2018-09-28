@@ -1,5 +1,5 @@
 # HTML, JS, & CSS
-A collection of HTML (and CSS) files I have created.
+A collection of HTML, JS, & CSS files I have created.
 
 ## Acknowledgments
 [SoloLearn](https://www.sololearn.com/)
