@@ -3,6 +3,7 @@ A collection of HTML, JS, & CSS files I have created.
 
 ## Acknowledgments
 [SoloLearn](https://www.sololearn.com/)
+<br>
 [W3Schools](https://www.w3schools.com/)
 
 
