@@ -14,3 +14,5 @@ This is a spin-off of Flappy Bird. To play, hold the "JUMP" button to move up. I
 Use WASD or the arrow keys to move. Collect the red circles to grow longer. You can touch yourself, but if you touch the sides you die. You can see your score in the bottom left corner.
 <h3><a href="https://ccreativecnd.github.io/html/pixels-fighting.html">Pixels Fighting</a></h3>
 This is the Discord Edition! Just sit back, relax, and watch the show! When it finishes, click the reset button.
+<h3><a href="https://ccreativecnd.github.io/html/breakout.html">Breakout</a></h3>
+Control the paddle using the left and right arrow keys, or by moving your mouse left and right. To play, use the paddle at the bottom to hit the ball up to the boxes to break them. When you break all of the boxes, you breakout and win! If youtouch the bottom and not the paddle, you loose a life. You only have 3 lives.
