@@ -16,3 +16,4 @@ Use WASD or the arrow keys to move. Collect the red circles to grow longer. You 
 This is the Discord Edition! Just sit back, relax, and watch the show! When it finishes, click the reset button.
 <h3><a href="https://ccreativecnd.github.io/html/breakout.html">Breakout</a></h3>
 Control the paddle using the left and right arrow keys, or by moving your mouse left and right. To play, use the paddle at the bottom to hit the ball up to the boxes to break them. When you break all of the boxes, you breakout and win! If youtouch the bottom and not the paddle, you loose a life. You only have 3 lives.
+<h3><a href="https://ccreativecnd.github.io/html/color-new-tab.html">Color NewTab</a></h3>
